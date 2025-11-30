@@ -34,12 +34,11 @@ OpenCore EFI configuration for Dell Latitude 7389 2-in-1 Convertible
 - [x] SD Card Reader
 - [x] Keyboard & Function keys
 - [x] HDMI output
+- [x] WiFi (Intel - requires AirportItlwm)
+- [x] Bluetooth (partial support)
 
 ## ❌ What Doesn't Work
-
-- [ ] WiFi (Intel - requires AirportItlwm)
-- [ ] Bluetooth (partial support)
-- [ ] Fingerprint sensor
+- [ ] Ambient light sensor
 - [ ] Tablet mode auto-rotation
 
 ## 🔧 BIOS Settings
@@ -47,7 +46,6 @@ OpenCore EFI configuration for Dell Latitude 7389 2-in-1 Convertible
 ### Disable
 - Secure Boot
 - Fast Boot
-- Intel SGX
 - Wake on LAN
 
 ### Enable
