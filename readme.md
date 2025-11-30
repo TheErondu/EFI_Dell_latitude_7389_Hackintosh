@@ -58,7 +58,7 @@ OpenCore EFI configuration for Dell Latitude 7389 2-in-1 Convertible
 2. Mount EFI partition
 3. Copy this EFI folder
 4. **Generate your own serials** with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
-   - SMBIOS: MacBookPro14,1
+   - SMBIOS: MacBookPro15,4
 5. Install macOS
 
 ## 🛠️ Post-Installation
