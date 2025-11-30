@@ -1,3 +1,4 @@
+
 # Dell Latitude 7389 Hackintosh - OpenCore
 
 OpenCore EFI configuration for Dell Latitude 7389 2-in-1 Convertible
